@@ -1,4 +1,4 @@
-package model;
+package com.capgemini.greetings.model;
 
 public class Greeting {
 	private long id;
